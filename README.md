@@ -11,6 +11,7 @@ The rtesseract gem uses rmagick by default, but on my local machine I already ha
 
 ## Running the Examples
 ```bundle exec irb```
+
 ```load './app.rb'```
 
 For simplicities sake, I'm just puts-ing stuff to the console. Comment or uncomment code to focus on the data you're interested in.
